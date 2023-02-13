@@ -1,0 +1,13 @@
+class Assignment
+{
+ public static void main (String[] args)
+
+ {
+ System.out.println ("Hello I am Gowtham");
+ System.out.println ("I completed my B.Tech IT");
+ System.out.println ("I did my Bachelors from CIT Coimbatore");
+ System.out.println ("I worked in Amazon as ML Data Associate");
+ System.out.println ("I worked for 2 years in Amazon");
+ }
+
+ }
